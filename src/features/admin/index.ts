@@ -1,0 +1,5 @@
+export { AdminLayout } from './AdminLayout'
+export { AdminMoviesPage } from './pages/AdminMoviesPage'
+export { AdminRoomsPage } from './pages/AdminRoomsPage'
+export { AdminSessionsPage } from './pages/AdminSessionsPage'
+export { ValidateTicketPage } from './pages/ValidateTicketPage'
